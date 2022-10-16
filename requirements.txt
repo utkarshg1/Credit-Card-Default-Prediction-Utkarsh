@@ -2,6 +2,7 @@ numpy
 pandas
 matplotlib
 seaborn
+statsmodels
 sklearn
 dash
 plotly
