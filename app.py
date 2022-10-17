@@ -6,8 +6,6 @@ from dash.dependencies import Input, Output, State
 
 import logging
 
-from matplotlib import style
-from numpy import place
 logging.basicConfig(filename='./Logs/logfile.log',level=logging.DEBUG,
                     format='%(asctime)s:%(levelname)s:%(message)s')
 
@@ -24,6 +22,14 @@ with open('./Models/xgbmodel.pkl' , 'rb') as f:
 app.layout = html.Div([
         html.H1(children = 'Credit Card Default Prediction -  Utkarsh Gaikwad',
                 style = {'textAlign':'center'}),
+
+        html.Br(),
+        html.Br(),
+
+        dcc.Link(
+            children='GitHub Repository for this project',
+            refresh=True,
+            href='https://github.com/utkarshg1/Credit-Card-Default-Prediction-Utkarsh'),
 
         html.Br(),
         html.Br(),
@@ -394,16 +400,16 @@ def prediction(n,lbal,sex,edu,mar,age,p0,p2,p3,p4,p5,p6,b1,b2,b3,b4,b5,b6,pa1,pa
     logging.info('dataframe processed -\n{}'.format(df2.to_string()))
 
     op = xgb_model.predict(df2)
-    print(op)
-    if op==1:
+    print(op[0])
+    if op[0]==1:
         s = "Will Default : Yes"
     else:
         s = "Will Default : No"
     
     print(s)
 
-    logging.debug('{}'.format(s))
-    logging.debug('Server Ran Successfully')
+    logging.info('{}'.format(s))
+    logging.info('Server Ran Successfully')
 
     return "{}".format(s)
 
