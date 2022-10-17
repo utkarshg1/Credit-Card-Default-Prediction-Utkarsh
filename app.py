@@ -14,6 +14,7 @@ import pandas as pd
 import pickle
 
 app = dash.Dash(__name__)
+server = app.server
 
 # load saved model
 with open('./Models/xgbmodel.pkl' , 'rb') as f:
