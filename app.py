@@ -6,7 +6,7 @@ from dash.dependencies import Input, Output, State
 
 import logging
 
-logging.basicConfig(filename='./Logs/logfile.log',level=logging.DEBUG,
+logging.basicConfig(filename='./Logs/logfile.txt',level=logging.DEBUG,
                     format='%(asctime)s:%(levelname)s:%(message)s')
 
 import numpy as np
