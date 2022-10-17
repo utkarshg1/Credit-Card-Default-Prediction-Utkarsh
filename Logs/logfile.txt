@@ -1,2 +1,40 @@
 2022-10-17 16:44:36,654:INFO:Dash is running on http://127.0.0.1:8050/
 
+2022-10-17 17:57:32,591:INFO:Dash is running on http://127.0.0.1:8050/
+
+2022-10-17 17:59:31,220:DEBUG:Click Number : 1
+2022-10-17 17:59:31,299:INFO:dataframe initial - 
+  LIMIT_BAL SEX EDUCATION MARRIAGE AGE PAY_0 PAY_2 PAY_3 PAY_4 PAY_5 PAY_6 BILL_AMT1 BILL_AMT2 BILL_AMT3 BILL_AMT4 BILL_AMT5 BILL_AMT6 PAY_AMT1 PAY_AMT2 PAY_AMT3 PAY_AMT4 PAY_AMT5 PAY_AMT6
+0     20000   2         2        1  24     2     2    -1    -1    -2    -2      3913      3102       689         0         0         0        0      689        0        0        0        0
+2022-10-17 17:59:31,301:INFO:dataframe processed -
+   LIMIT_BAL  AGE  PAY_0  PAY_2  PAY_3  PAY_4  PAY_5  PAY_6  BILL_AMT1  BILL_AMT2  BILL_AMT3  BILL_AMT4  BILL_AMT5  BILL_AMT6  PAY_AMT1  PAY_AMT2  PAY_AMT3  PAY_AMT4  PAY_AMT5  PAY_AMT6  SEX_1  SEX_2  EDUCATION_0  EDUCATION_1  EDUCATION_2  EDUCATION_3  EDUCATION_4  EDUCATION_5  EDUCATION_6  MARRIAGE_0  MARRIAGE_1  MARRIAGE_2  MARRIAGE_3
+0      20000   24      2      2     -1     -1     -2     -2       3913       3102        689          0          0          0         0       689         0         0         0         0    0.0      1          0.0          0.0            1          0.0          0.0          0.0          0.0         0.0           1         0.0         0.0
+2022-10-17 17:59:31,318:INFO:Will Default : Yes
+2022-10-17 17:59:31,318:INFO:Server Ran Successfully
+2022-10-17 17:59:33,121:DEBUG:Click Number : 2
+2022-10-17 17:59:33,176:INFO:dataframe initial - 
+  LIMIT_BAL SEX EDUCATION MARRIAGE AGE PAY_0 PAY_2 PAY_3 PAY_4 PAY_5 PAY_6 BILL_AMT1 BILL_AMT2 BILL_AMT3 BILL_AMT4 BILL_AMT5 BILL_AMT6 PAY_AMT1 PAY_AMT2 PAY_AMT3 PAY_AMT4 PAY_AMT5 PAY_AMT6
+0     20000   2         2        1  24     2     2    -1    -1    -2    -2      3913      3102       689         0         0         0        0      689        0        0        0        0
+2022-10-17 17:59:33,181:INFO:dataframe processed -
+   LIMIT_BAL  AGE  PAY_0  PAY_2  PAY_3  PAY_4  PAY_5  PAY_6  BILL_AMT1  BILL_AMT2  BILL_AMT3  BILL_AMT4  BILL_AMT5  BILL_AMT6  PAY_AMT1  PAY_AMT2  PAY_AMT3  PAY_AMT4  PAY_AMT5  PAY_AMT6  SEX_1  SEX_2  EDUCATION_0  EDUCATION_1  EDUCATION_2  EDUCATION_3  EDUCATION_4  EDUCATION_5  EDUCATION_6  MARRIAGE_0  MARRIAGE_1  MARRIAGE_2  MARRIAGE_3
+0      20000   24      2      2     -1     -1     -2     -2       3913       3102        689          0          0          0         0       689         0         0         0         0    0.0      1          0.0          0.0            1          0.0          0.0          0.0          0.0         0.0           1         0.0         0.0
+2022-10-17 17:59:33,189:INFO:Will Default : Yes
+2022-10-17 17:59:33,189:INFO:Server Ran Successfully
+2022-10-17 17:59:38,470:DEBUG:Click Number : 3
+2022-10-17 17:59:38,521:INFO:dataframe initial - 
+  LIMIT_BAL SEX EDUCATION MARRIAGE AGE PAY_0 PAY_2 PAY_3 PAY_4 PAY_5 PAY_6 BILL_AMT1 BILL_AMT2 BILL_AMT3 BILL_AMT4 BILL_AMT5 BILL_AMT6 PAY_AMT1 PAY_AMT2 PAY_AMT3 PAY_AMT4 PAY_AMT5 PAY_AMT6
+0     20000   2         2        1  24     2     2    -1    -1    -2    -2      3913      3102       689         0         0         0        0      689        0        0        0        0
+2022-10-17 17:59:38,527:INFO:dataframe processed -
+   LIMIT_BAL  AGE  PAY_0  PAY_2  PAY_3  PAY_4  PAY_5  PAY_6  BILL_AMT1  BILL_AMT2  BILL_AMT3  BILL_AMT4  BILL_AMT5  BILL_AMT6  PAY_AMT1  PAY_AMT2  PAY_AMT3  PAY_AMT4  PAY_AMT5  PAY_AMT6  SEX_1  SEX_2  EDUCATION_0  EDUCATION_1  EDUCATION_2  EDUCATION_3  EDUCATION_4  EDUCATION_5  EDUCATION_6  MARRIAGE_0  MARRIAGE_1  MARRIAGE_2  MARRIAGE_3
+0      20000   24      2      2     -1     -1     -2     -2       3913       3102        689          0          0          0         0       689         0         0         0         0    0.0      1          0.0          0.0            1          0.0          0.0          0.0          0.0         0.0           1         0.0         0.0
+2022-10-17 17:59:38,536:INFO:Will Default : Yes
+2022-10-17 17:59:38,536:INFO:Server Ran Successfully
+2022-10-17 17:59:49,954:DEBUG:Click Number : 4
+2022-10-17 17:59:50,041:INFO:dataframe initial - 
+  LIMIT_BAL SEX EDUCATION MARRIAGE AGE PAY_0 PAY_2 PAY_3 PAY_4 PAY_5 PAY_6 BILL_AMT1 BILL_AMT2 BILL_AMT3 BILL_AMT4 BILL_AMT5 BILL_AMT6 PAY_AMT1 PAY_AMT2 PAY_AMT3 PAY_AMT4 PAY_AMT5 PAY_AMT6
+0     20000   2         2        1  24    -2    -2    -2    -2    -2    -2      3913      3102       689         0         0         0        0      689        0        0        0        0
+2022-10-17 17:59:50,044:INFO:dataframe processed -
+   LIMIT_BAL  AGE  PAY_0  PAY_2  PAY_3  PAY_4  PAY_5  PAY_6  BILL_AMT1  BILL_AMT2  BILL_AMT3  BILL_AMT4  BILL_AMT5  BILL_AMT6  PAY_AMT1  PAY_AMT2  PAY_AMT3  PAY_AMT4  PAY_AMT5  PAY_AMT6  SEX_1  SEX_2  EDUCATION_0  EDUCATION_1  EDUCATION_2  EDUCATION_3  EDUCATION_4  EDUCATION_5  EDUCATION_6  MARRIAGE_0  MARRIAGE_1  MARRIAGE_2  MARRIAGE_3
+0      20000   24     -2     -2     -2     -2     -2     -2       3913       3102        689          0          0          0         0       689         0         0         0         0    0.0      1          0.0          0.0            1          0.0          0.0          0.0          0.0         0.0           1         0.0         0.0
+2022-10-17 17:59:50,060:INFO:Will Default : No
+2022-10-17 17:59:50,060:INFO:Server Ran Successfully
