@@ -38,3 +38,62 @@
 0      20000   24     -2     -2     -2     -2     -2     -2       3913       3102        689          0          0          0         0       689         0         0         0         0    0.0      1          0.0          0.0            1          0.0          0.0          0.0          0.0         0.0           1         0.0         0.0
 2022-10-17 17:59:50,060:INFO:Will Default : No
 2022-10-17 17:59:50,060:INFO:Server Ran Successfully
+2022-10-19 18:43:28,711:INFO:Dash is running on http://127.0.0.1:8050/
+
+2022-10-19 18:45:16,020:DEBUG:Click Number : 1
+2022-10-19 18:45:16,116:INFO:dataframe initial - 
+  LIMIT_BAL SEX EDUCATION MARRIAGE AGE PAY_0 PAY_2 PAY_3 PAY_4 PAY_5 PAY_6 BILL_AMT1 BILL_AMT2 BILL_AMT3 BILL_AMT4 BILL_AMT5 BILL_AMT6 PAY_AMT1 PAY_AMT2 PAY_AMT3 PAY_AMT4 PAY_AMT5 PAY_AMT6
+0     20000   2         2        1  24     2     2    -1    -1    -2    -2      3913      3102       689         0         0         0        0      689        0        0        0        0
+2022-10-19 18:45:16,122:INFO:dataframe processed -
+   LIMIT_BAL  AGE  PAY_0  PAY_2  PAY_3  PAY_4  PAY_5  PAY_6  BILL_AMT1  BILL_AMT2  BILL_AMT3  BILL_AMT4  BILL_AMT5  BILL_AMT6  PAY_AMT1  PAY_AMT2  PAY_AMT3  PAY_AMT4  PAY_AMT5  PAY_AMT6  SEX_1  SEX_2  EDUCATION_0  EDUCATION_1  EDUCATION_2  EDUCATION_3  EDUCATION_4  EDUCATION_5  EDUCATION_6  MARRIAGE_0  MARRIAGE_1  MARRIAGE_2  MARRIAGE_3
+0      20000   24      2      2     -1     -1     -2     -2       3913       3102        689          0          0          0         0       689         0         0         0         0    0.0      1          0.0          0.0            1          0.0          0.0          0.0          0.0         0.0           1         0.0         0.0
+2022-10-19 18:45:16,137:INFO:Will Default : Yes
+2022-10-19 18:45:16,137:INFO:Server Ran Successfully
+2022-10-19 18:46:39,879:INFO:Dash is running on http://127.0.0.1:8050/
+
+2022-10-19 18:48:00,151:DEBUG:Click Number : 1
+2022-10-19 18:48:00,249:INFO:dataframe initial - 
+  LIMIT_BAL SEX EDUCATION MARRIAGE AGE PAY_0 PAY_2 PAY_3 PAY_4 PAY_5 PAY_6 BILL_AMT1 BILL_AMT2 BILL_AMT3 BILL_AMT4 BILL_AMT5 BILL_AMT6 PAY_AMT1 PAY_AMT2 PAY_AMT3 PAY_AMT4 PAY_AMT5 PAY_AMT6
+0     20000   2         2        1  24     2     2    -1    -1    -2    -2      3913      3102       689         0         0         0        0      689        0        0        0        0
+2022-10-19 18:48:00,257:INFO:dataframe processed -
+   LIMIT_BAL  AGE  PAY_0  PAY_2  PAY_3  PAY_4  PAY_5  PAY_6  BILL_AMT1  BILL_AMT2  BILL_AMT3  BILL_AMT4  BILL_AMT5  BILL_AMT6  PAY_AMT1  PAY_AMT2  PAY_AMT3  PAY_AMT4  PAY_AMT5  PAY_AMT6  SEX_1  SEX_2  EDUCATION_0  EDUCATION_1  EDUCATION_2  EDUCATION_3  EDUCATION_4  EDUCATION_5  EDUCATION_6  MARRIAGE_0  MARRIAGE_1  MARRIAGE_2  MARRIAGE_3
+0      20000   24      2      2     -1     -1     -2     -2       3913       3102        689          0          0          0         0       689         0         0         0         0    0.0      1          0.0          0.0            1          0.0          0.0          0.0          0.0         0.0           1         0.0         0.0
+2022-10-19 18:48:00,281:INFO:Will Default : Yes
+2022-10-19 18:48:00,281:INFO:[[0.35094333 0.6490567 ]]
+2022-10-19 18:48:00,281:INFO:Server Ran Successfully
+2022-10-19 18:49:15,328:INFO:Dash is running on http://127.0.0.1:8050/
+
+2022-10-19 18:50:27,617:DEBUG:Click Number : 1
+2022-10-19 18:50:27,697:INFO:dataframe initial - 
+  LIMIT_BAL SEX EDUCATION MARRIAGE AGE PAY_0 PAY_2 PAY_3 PAY_4 PAY_5 PAY_6 BILL_AMT1 BILL_AMT2 BILL_AMT3 BILL_AMT4 BILL_AMT5 BILL_AMT6 PAY_AMT1 PAY_AMT2 PAY_AMT3 PAY_AMT4 PAY_AMT5 PAY_AMT6
+0     20000   2         2        1  24     2     2    -1    -1    -2    -2      3913      3102       689         0         0         0        0      689        0        0        0        0
+2022-10-19 18:50:27,708:INFO:dataframe processed -
+   LIMIT_BAL  AGE  PAY_0  PAY_2  PAY_3  PAY_4  PAY_5  PAY_6  BILL_AMT1  BILL_AMT2  BILL_AMT3  BILL_AMT4  BILL_AMT5  BILL_AMT6  PAY_AMT1  PAY_AMT2  PAY_AMT3  PAY_AMT4  PAY_AMT5  PAY_AMT6  SEX_1  SEX_2  EDUCATION_0  EDUCATION_1  EDUCATION_2  EDUCATION_3  EDUCATION_4  EDUCATION_5  EDUCATION_6  MARRIAGE_0  MARRIAGE_1  MARRIAGE_2  MARRIAGE_3
+0      20000   24      2      2     -1     -1     -2     -2       3913       3102        689          0          0          0         0       689         0         0         0         0    0.0      1          0.0          0.0            1          0.0          0.0          0.0          0.0         0.0           1         0.0         0.0
+2022-10-19 18:50:27,719:INFO:Will Default : Yes
+2022-10-19 18:50:27,719:INFO:[[0.35094333 0.6490567 ]]
+2022-10-19 18:50:27,719:INFO:Server Ran Successfully
+2022-10-19 18:51:00,704:INFO:Dash is running on http://127.0.0.1:8050/
+
+2022-10-19 18:52:07,203:DEBUG:Click Number : 1
+2022-10-19 18:52:07,282:INFO:dataframe initial - 
+  LIMIT_BAL SEX EDUCATION MARRIAGE AGE PAY_0 PAY_2 PAY_3 PAY_4 PAY_5 PAY_6 BILL_AMT1 BILL_AMT2 BILL_AMT3 BILL_AMT4 BILL_AMT5 BILL_AMT6 PAY_AMT1 PAY_AMT2 PAY_AMT3 PAY_AMT4 PAY_AMT5 PAY_AMT6
+0     20000   2         2        1  24     2     2    -1    -1    -2    -2      3913      3102       689         0         0         0        0      689        0        0        0        0
+2022-10-19 18:52:07,299:INFO:dataframe processed -
+   LIMIT_BAL  AGE  PAY_0  PAY_2  PAY_3  PAY_4  PAY_5  PAY_6  BILL_AMT1  BILL_AMT2  BILL_AMT3  BILL_AMT4  BILL_AMT5  BILL_AMT6  PAY_AMT1  PAY_AMT2  PAY_AMT3  PAY_AMT4  PAY_AMT5  PAY_AMT6  SEX_1  SEX_2  EDUCATION_0  EDUCATION_1  EDUCATION_2  EDUCATION_3  EDUCATION_4  EDUCATION_5  EDUCATION_6  MARRIAGE_0  MARRIAGE_1  MARRIAGE_2  MARRIAGE_3
+0      20000   24      2      2     -1     -1     -2     -2       3913       3102        689          0          0          0         0       689         0         0         0         0    0.0      1          0.0          0.0            1          0.0          0.0          0.0          0.0         0.0           1         0.0         0.0
+2022-10-19 18:52:07,314:INFO:Will Default : Yes
+2022-10-19 18:52:07,314:INFO:[[0.35094333 0.6490567 ]]
+2022-10-19 18:52:07,314:INFO:Server Ran Successfully
+2022-10-19 18:55:52,361:INFO:Dash is running on http://127.0.0.1:8050/
+
+2022-10-19 18:56:57,371:DEBUG:Click Number : 1
+2022-10-19 18:56:57,456:INFO:dataframe initial - 
+  LIMIT_BAL SEX EDUCATION MARRIAGE AGE PAY_0 PAY_2 PAY_3 PAY_4 PAY_5 PAY_6 BILL_AMT1 BILL_AMT2 BILL_AMT3 BILL_AMT4 BILL_AMT5 BILL_AMT6 PAY_AMT1 PAY_AMT2 PAY_AMT3 PAY_AMT4 PAY_AMT5 PAY_AMT6
+0     20000   2         2        1  24     2     2    -1    -1    -2    -2      3913      3102       689         0         0         0        0      689        0        0        0        0
+2022-10-19 18:56:57,463:INFO:dataframe processed -
+   LIMIT_BAL  AGE  PAY_0  PAY_2  PAY_3  PAY_4  PAY_5  PAY_6  BILL_AMT1  BILL_AMT2  BILL_AMT3  BILL_AMT4  BILL_AMT5  BILL_AMT6  PAY_AMT1  PAY_AMT2  PAY_AMT3  PAY_AMT4  PAY_AMT5  PAY_AMT6  SEX_1  SEX_2  EDUCATION_0  EDUCATION_1  EDUCATION_2  EDUCATION_3  EDUCATION_4  EDUCATION_5  EDUCATION_6  MARRIAGE_0  MARRIAGE_1  MARRIAGE_2  MARRIAGE_3
+0      20000   24      2      2     -1     -1     -2     -2       3913       3102        689          0          0          0         0       689         0         0         0         0    0.0      1          0.0          0.0            1          0.0          0.0          0.0          0.0         0.0           1         0.0         0.0
+2022-10-19 18:56:57,489:INFO:Will Default : Yes
+2022-10-19 18:56:57,489:INFO:[[0.35094333 0.6490567 ]]
+2022-10-19 18:56:57,489:INFO:Server Ran Successfully

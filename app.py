@@ -409,10 +409,16 @@ def prediction(n,lbal,sex,edu,mar,age,p0,p2,p3,p4,p5,p6,b1,b2,b3,b4,b5,b6,pa1,pa
     
     print(s)
 
+    prob = xgb_model.predict_proba(df2)
+
+    print(prob)
+    print(xgb_model.classes_)
+
     logging.info('{}'.format(s))
+    logging.info('{}'.format(prob))
     logging.info('Server Ran Successfully')
 
-    return "Prediction Number {} - {}".format(n,s)
+    return "Prediction Number {} - {} | Probability of Default - {:0.4f}".format(n,s,prob[0][1])
 
 if __name__=='__main__':
     app.run_server(debug=True)
