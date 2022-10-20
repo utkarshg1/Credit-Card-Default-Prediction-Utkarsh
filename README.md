@@ -45,10 +45,11 @@ Below are steps taken to build this project
 
 ## Documentation
 
-1) [High-Level-Design-Document](https://drive.google.com/file/d/1iiKu75WIoyreuKWTatyDh-U22bl-oHnf/view?usp=sharing)
-2) [Low-Level-Design-Document](https://drive.google.com/file/d/1KnLZ-3xE1ZVwfcVjgvPE9o0IaRPr8w1w/view?usp=sharing)
-3) [Architecture](https://drive.google.com/file/d/1eC8BhaQe0DSRfXkELuCuTZf3Gb98Vvq1/view?usp=sharing)
-4) [Wireframe](https://drive.google.com/file/d/1GAQbhLFYdGvJDUwVYL33Iav3zJvbIBup/view?usp=sharing)
+1) [Detailed-Project-Report](https://drive.google.com/file/d/1_DuqYwWFZDtCR-zMlmSWCd04-XJIXwMo/view?usp=sharing)
+2) [High-Level-Design-Document](https://drive.google.com/file/d/1iiKu75WIoyreuKWTatyDh-U22bl-oHnf/view?usp=sharing)
+3) [Low-Level-Design-Document](https://drive.google.com/file/d/1KnLZ-3xE1ZVwfcVjgvPE9o0IaRPr8w1w/view?usp=sharing)
+4) [Architecture](https://drive.google.com/file/d/1eC8BhaQe0DSRfXkELuCuTZf3Gb98Vvq1/view?usp=sharing)
+5) [Wireframe](https://drive.google.com/file/d/1GAQbhLFYdGvJDUwVYL33Iav3zJvbIBup/view?usp=sharing)
 
 # Project Demo
 
